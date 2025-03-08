@@ -112,4 +112,5 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-special thanks to Tech Raj for explaining the code step by step.
+
+Special thanks to Tech Raj for explaining the code step by step.
